@@ -12,22 +12,22 @@
     * prototype
     * builder
 2. structure（7种）
-    *
-    *
-    *
-    *
-    *
-    *
-    *
+    * adapter
+    * bridge
+    * composite
+    * decorator
+    * facade
+    * flyweight
+    * proxy
 3. behavior（11种）
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    *
-    * 
+    * chain of responsibility
+    * command
+    * interpreter
+    * iterator
+    * mediator
+    * memento
+    * observer
+    * state
+    * strategy
+    * template
+    * visitor
